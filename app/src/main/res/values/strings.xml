@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">U2P4Conversor</string>
+    <string name="textPulgadasACentimetros">Conversor de pulgadas a centímetros</string>
+    <string name="textCentimetrosAPulgadas">Conversor de centímetros a pulgadas</string>
+    <string name="editPulgadas">Introduce las pulgadas</string>
+    <string name="editCentimetros">Introduce los centímetros</string>
+    <string name="buttonCambiar">Cambiar</string>
+    <string name="editSegundoCampo">Resultado</string>
+</resources>
